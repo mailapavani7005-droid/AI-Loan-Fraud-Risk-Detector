@@ -1,4 +1,7 @@
 # AI Loan Fraud Risk Detector
+## Live Demo
+
+[Open AI Loan Fraud Risk Detector](https://ai-loan-fraud-risk-detector-7gped8a9xmgjexkcejjgxo.streamlit.app/)
 
 ## Project Overview
 This project helps banks and financial institutions identify risky loan applicants using AI-based risk assessment.
